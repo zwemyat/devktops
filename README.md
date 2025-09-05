@@ -12,7 +12,9 @@ git clone https://github.com/zwemyat/devktops.git
 
 cd devktops
 ## Switch to feature branch
-git checkout -b feature/new-feature
+
+git checkout feature/new-feature
+
 ##Make some changes
 - Please add text "This message is updated by [yourname]."
 - Please add commit "commit by [yourname]"
