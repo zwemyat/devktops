@@ -15,7 +15,7 @@ cd devktops
 
 git checkout feature/new-feature
 
-##Make some changes
+## Make some changes
 - Please add text "This message is updated by [yourname]."
 - Please add commit "commit by [yourname]"
 - Please push feature branch and create pull request
